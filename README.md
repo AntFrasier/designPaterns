@@ -1,4 +1,10 @@
-# designPaterns
+# Decorator design Patern
 
-Learning design paterns
-each branch is for 1 design pattern
+## Learning Decorator design paterns
+
+source :
+https://refactoring.guru/fr/design-patterns/decorator
+
+what for ?
+
+Attache dynamiquement des responsabilités supplémentaires à un objet.
